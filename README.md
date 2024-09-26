@@ -91,6 +91,6 @@
     * Changing number of epochs and running the model .
     * Reducing the trainable layers.
     * Can show the output in more representable way.
-##### This actually beats the result of DeepFood, a 2016 paper which used a Convolutional Neural Network trained for 2-3 days to achieve 77.4% top-1 accuracy.
+##### This actually beats the result of DeepFood, a 2016 paper which used a Convolutional Neural Network trained for 2-3 days to achieve 77.4% top-1 accuracy. link for the paper: https://arxiv.org/pdf/1606.05675
 ##### Note: This was done as a part of course taken in udemy. So codes and workflow was learnt and taken form that. The course is TensorFlow for Deep Learning Bootcamp by Andrei Neagoie and Daniel Bourke
  
